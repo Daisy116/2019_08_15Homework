@@ -1,4 +1,4 @@
-°Ñ¦Ò§G§iÄæªººô¯¸ : https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&sms=B69F3267D6C0F22D&s=AAADB48FE8CB630F
+åƒè€ƒä½ˆå‘Šæ¬„çš„ç¶²ç«™ : https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&sms=B69F3267D6C0F22D&s=AAADB48FE8CB630F
 
 https://laravel.com/docs/4.2/schema
 https://www.wibibi.com/info.php?tid=240
@@ -9,7 +9,7 @@ http://www.eion.com.tw/Blogger/?Pid=1158
 https://www.w3school.com.cn/jquerymobile/jquerymobile_list_views.asp
 https://blog.csdn.net/xiaoxiaohui520134/article/details/51800968
 https://segmentfault.com/q/1010000004298312
-https://blog.csdn.net/yangzhihello/article/details/19401801     «ç»ò·PÄ±padding: 0 10px;³Ì¦³¥Î??
+https://blog.csdn.net/yangzhihello/article/details/19401801     æ€éº¼æ„Ÿè¦ºpadding: 0 10px;æœ€æœ‰ç”¨??
 http://www.runoob.com/jqueryui/example-datepicker.html
 https://blog.csdn.net/gulingeagle/article/details/43567101
 http://www.runoob.com/bootstrap/bootstrap-forms.html
@@ -19,5 +19,8 @@ http://www.runoob.com/bootstrap/bootstrap-forms.html
 
 
 
-¬dlaravel ªºmiddleware!!!    https://laravel.com/docs/5.8/middleware
-¥Îbootsrapªº®Ø¬[¡A¤£¥Î¦Û¤v¼gºô­¶!!!      https://themes.getbootstrap.com/
+æŸ¥laravel çš„middleware!!!    https://laravel.com/docs/5.8/middleware
+                            https://ithelp.ithome.com.tw/articles/10194068
+ç”¨bootsrapçš„æ¡†æ¶ï¼Œä¸ç”¨è‡ªå·±å¯«ç¶²é !!!      https://themes.getbootstrap.com/
+laravel æ•™å­¸ :      https://ithelp.ithome.com.tw/users/20107335/ironman/1337?page=3
+https://blog.csdn.net/cug_jiang126com/article/details/50544728
