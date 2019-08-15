@@ -1,0 +1,23 @@
+參考佈告欄的網站 : https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&sms=B69F3267D6C0F22D&s=AAADB48FE8CB630F
+
+https://laravel.com/docs/4.2/schema
+https://www.wibibi.com/info.php?tid=240
+https://stackoverflow.com/questions/3337914/how-can-i-make-a-link-from-a-td-table-cell
+https://matthung0807.blogspot.com/2018/03/mysql-email-varchar.html
+https://blog.csdn.net/jajavaja/article/details/21695715
+http://www.eion.com.tw/Blogger/?Pid=1158
+https://www.w3school.com.cn/jquerymobile/jquerymobile_list_views.asp
+https://blog.csdn.net/xiaoxiaohui520134/article/details/51800968
+https://segmentfault.com/q/1010000004298312
+https://blog.csdn.net/yangzhihello/article/details/19401801     怎麼感覺padding: 0 10px;最有用??
+http://www.runoob.com/jqueryui/example-datepicker.html
+https://blog.csdn.net/gulingeagle/article/details/43567101
+http://www.runoob.com/bootstrap/bootstrap-forms.html
+
+
+
+
+
+
+查laravel 的middleware!!!    https://laravel.com/docs/5.8/middleware
+用bootsrap的框架，不用自己寫網頁!!!      https://themes.getbootstrap.com/
