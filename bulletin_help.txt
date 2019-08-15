@@ -23,4 +23,5 @@ http://www.runoob.com/bootstrap/bootstrap-forms.html
                             https://ithelp.ithome.com.tw/articles/10194068
 用bootsrap的框架，不用自己寫網頁!!!      https://themes.getbootstrap.com/
 laravel 教學 :      https://ithelp.ithome.com.tw/users/20107335/ironman/1337?page=3
+laravel 認證登入  :     https://www.kancloud.cn/kancloud/laravel-5-learning-notes/50183
 https://blog.csdn.net/cug_jiang126com/article/details/50544728
